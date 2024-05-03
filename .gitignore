@@ -1,0 +1,14 @@
+./garbage/
+./chaincode/vendor/
+./server/node_modules/
+./client/node_modules/
+./plots/__pycache__/
+./requests/
+./publications/
+./database/
+./notes
+./problem.txt
+./trial.txt
+./trial.txt.enc
+./test.sh
+./server/experiments/
